@@ -1,2 +1,3 @@
-Erste kleine Testdatei
+﻿Erste kleine Testdatei
 Auf Git verändert
+Lokal verändert
