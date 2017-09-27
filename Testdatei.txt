@@ -1,3 +1,4 @@
 ﻿Erste kleine Testdatei
 Auf Git verändert
 Lokal verändert
+Auf Git nochmal verändert
